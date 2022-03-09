@@ -1,14 +1,14 @@
 local Enabled = {
-	character_pack_clover = false,
-	dbd_clan = false,
-	gage_pack_assault = false,
-	wild = false,
-	ghx = false,
-	hlm2_deluxe = false,
-	e3_s15c = false,
-	turtles = false,
-	xmas_soundtrack = false,
-	scm = false,
+	character_pack_clover = true,
+	dbd_clan = true,
+	gage_pack_assault = true,
+	wild = true,
+	ghx = true,
+	hlm2_deluxe = true,
+	e3_s15c = true,
+	turtles = true,
+	xmas_soundtrack = true,
+	scm = true,
 	afp = false,
 	rvd = false,
 	win_bundle = false,
@@ -127,8 +127,8 @@ local Enabled = {
 	mbs = false,
 	chico = false,
 	gage_pack = false,
-	rota = false,
-	twitch_pack = false
+	rota = true,
+	twitch_pack = true
 }
 
 
